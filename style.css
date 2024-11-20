@@ -1,0 +1,19 @@
+
+ 
+
+body{
+    background-color: black;
+    color: greenyellow;
+    font-family:monospace;
+    
+    font-size: large;
+}
+
+h1{
+    text-align: center;
+}
+
+#main{
+    margin: auto;
+    width: 50%;
+}
